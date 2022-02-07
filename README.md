@@ -9,3 +9,6 @@ Example:
 
 HangMan_Game("Sunflower")
 
+## BUGS TO FIX
+
+Lowercase/Uppercase detection.
